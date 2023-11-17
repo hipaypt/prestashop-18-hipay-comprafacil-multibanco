@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>comprafacil</name>
+    <displayName><![CDATA[Multibanco]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Aceita pagamentos por refer&ecirc;ncia multibanco.]]></description>
+    <author><![CDATA[Mindshaker]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Tem a certeza que quer remover?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

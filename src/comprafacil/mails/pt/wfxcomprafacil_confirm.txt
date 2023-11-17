@@ -1,0 +1,1 @@
+A encomenda #{order_name} foi paga remotamente.

@@ -1,0 +1,9 @@
+Olá {firstname} {lastname},
+
+Escolheu pagar por multibanco a sua encomenda {order_name}
+
+Multibanco:
+
+Entidade: {cf_entity}
+Referencia: {cf_reference}
+Valor: {cf_value}
