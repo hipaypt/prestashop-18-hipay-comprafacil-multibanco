@@ -1,4 +1,4 @@
-# HiPay Multibanco for Prestashop 1.8
+# HiPay Multibanco for Prestashop 8
 ### About
 
 Accept payments for your products via Multibanco.
